@@ -1,0 +1,6 @@
+[
+	{ "keys": ["super+ctrl+alt+a"], "command": "alignment" },
+	{ "keys": ["super+ctrl+alt+s"], "command": "reindent"},
+	{ "keys": ["super+v"], "command": "paste_and_indent" },
+	{ "keys": ["super+shift+v"], "command": "paste" }
+]

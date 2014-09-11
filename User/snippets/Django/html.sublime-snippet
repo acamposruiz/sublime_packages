@@ -1,0 +1,18 @@
+<snippet>
+    <content><![CDATA[<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="description" content="$1">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <title>${2:Untitled}</title>
+    </head>
+
+    <body>
+    {% block content %}$3{% endblock %}
+    </body>
+</html>]]></content>
+    <tabTrigger>djbasehtml</tabTrigger>
+    <description>HTML - HTML foundation</description>
+    <scope>text.html</scope>
+</snippet>

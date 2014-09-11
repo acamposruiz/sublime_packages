@@ -1,0 +1,13 @@
+{
+	"folders":
+	[
+		{
+			"follow_symlinks": true,
+			"path": "/Users/Antonio/Library/Application Support/Sublime Text 3"
+		},
+		{
+			"follow_symlinks": true,
+			"path": "/Users/Antonio/Library/Application Support/Sublime Text 2"
+		}
+	]
+}

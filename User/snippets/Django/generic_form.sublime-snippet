@@ -1,0 +1,11 @@
+<snippet>
+    <content><![CDATA[<form action="/${1:path}/" method="${2:post}">{% csrf_token %}
+{{ form.${3:as_p} }}
+<input type="submit" value="Submit" />
+</form>]]></content>
+    <tabTrigger>djgenericform</tabTrigger>
+    <description>HTML - HTML foundation</description>
+    <scope>text.html</scope>
+</snippet>
+
+
