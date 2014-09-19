@@ -8,14 +8,14 @@
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
-		"JavaScript & Coffeescript Build Systems",
-		"SideBarGit",
-		"GitStatus",
-		"Jade",
 		"Vintage",
-		"JavaScript Patterns",
+		"Theme - Centurion Blue",
 		"Theme - Centurion",
-		"Theme - Centurion Blue"
+		"JavaScript Patterns",
+		"Jade",
+		"GitStatus",
+		"JavaScript & Coffeescript Build Systems",
+		"SideBarGit"
 	],
 	"rulers":
 	[
